@@ -30,9 +30,7 @@ Proceed to checkout and place your order securely.
 Follow us on social media to stay updated on new flavors and promotions.
 Credits
 
-This project was created by [Your Name].
-Gelato logo designed by [Designer Name].
-Icons provided by [Icon Library].
+This project was created by Wildy pierre jerome.
 
 ### `npm start`
 
